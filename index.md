@@ -7,4 +7,4 @@ I am currently in my 4th year as a Ph.D. candidate at Drexel University, where I
 
 My research interest lies in exposing neuromorphic hardware faults using machine learning, Spiking Neural Network, Semiconductor wafer defect classification, NLP, and understanding neurophysiological data (EEG, ECG, PPG etc).
 
-I completed my Master of Science degree with research thesis in 2020 under the guidance of <a href="https://cse.buffalo.edu/~doermann/index.html">Professor David Doermann</a> at SUNY Buffalo. 
+I completed my Master of Science degree with research thesis in 2020 under the guidance of professor <a href="https://cse.buffalo.edu/~doermann/index.html">David Doermann</a> at SUNY Buffalo. 
