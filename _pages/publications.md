@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-#<b>In English:</b>
 
 <ul>
 	<li>Mohammad Ershad Shaik, <b>Abhishek Kumar Mishra</b> and Yonghyun Kim
