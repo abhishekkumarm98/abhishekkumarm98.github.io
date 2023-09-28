@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /assets/Abhishek_Kumar_Mishra.pdf
+  # - title: "Blog"
+  #   url: /blog/
+  - title: "Contact"
+    url: mailto:am4862@drexel.edu
