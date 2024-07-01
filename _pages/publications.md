@@ -5,28 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
- 2024 IEEE 42nd VLSI Test Symposium (VTS). IEEE, 2024.
 
 <ul>
-	<li><b>Abhishek Kumar Mishra</b>, Mohammad Ershad Shaik, Anush Lingamoorthy, Suman Kumar, Anup Das, Nagarajan Kandasamy, and Nur A. Touba. 
+	<li><b>Abhishek Kumar Mishra</b>, Mohammad Ershad Shaik, Anush Lingamoorthy, Suman Kumar, Anup Das, Nagarajan Kandasamy, and Nur A. Touba (2024). 
 	 "WaferCap: Open Classification of Wafer Map Patterns using Deep Capsule Network"
 	<br>
 	<i>2024 IEEE 42nd VLSI Test Symposium (VTS)</i>
 	<a href="https://ieeexplore.ieee.org/document/10538764"> [PDF] </a>
 	</li>
-	<li>Mohammad Ershad Shaik, <b>Abhishek Kumar Mishra</b> and Yonghyun Kim.
+	<li>Mohammad Ershad Shaik, <b>Abhishek Kumar Mishra</b> and Yonghyun Kim (2023).
  	 "Predicting the Silent Data Error Prone Devices Using Machine Learning"
 	<br>
 	<i>2023 IEEE 41st VLSI Test Symposium (VTS)</i>
 	<a href="https://doi.org/10.1109/VTS56346.2023.10140097"> [PDF] </a>
 	</li>
-	<li><b>Abhishek Kumar Mishra</b>, Anup Das and Nagarajan Kandasamy.
+	<li><b>Abhishek Kumar Mishra</b>, Anup Das and Nagarajan Kandasamy (2023).
  	 "Online Performance Monitoring of Neuromorphic Computing Systems"
 	<br>
 	<i>2023 IEEE European Test Symposium (ETS)</i>
 	<a href="https://doi.org/10.1109/ETS56758.2023.10173860"> [PDF] </a>
 	</li>
-	<li>M.L.Varshika, <b>Abhishek Kumar Mishra</b>, Nagarajan Kandasamy and Anup Das.
+	<li>M.L.Varshika, <b>Abhishek Kumar Mishra</b>, Nagarajan Kandasamy and Anup Das (2023).
  	 "Hardware-Software Co-Design for On-chip Learning in AI Systems"
 	<br>
 	<i>Proceedings of the 28th Asia and South Pacific Design Automation Conference</i>
