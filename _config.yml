@@ -71,9 +71,9 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/abhishekkumarm98"
     - label: "Google Scholar"
-      #icon: "google-scholar"
+      icon: "google-scholar"
       #icon_pack: "ai"
-      icon: "ai-google-scholar"
+      # icon: "ai-google-scholar"
       url: "https://scholar.google.com/citations?user=hTmVvzUAAAAJ&hl=en"
 
 #footer:
