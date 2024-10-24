@@ -18,7 +18,7 @@ author_profile: true
 	 "A Fully-Configurable Digital Spiking Neuromorphic Hardware Design with Variable Quantization and Mixed Precision"
 	<br>
 	<i>2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS)</i>
-	<a href="https://www.ijcai.org/proceedings/2024/814"> [PDF] </a>
+	<a href="https://ieeexplore.ieee.org/abstract/document/10658724"> [PDF] </a>
 	</li>
 	
 	<li><b>Abhishek Kumar Mishra</b>, Mohammad Ershad Shaik, Anush Lingamoorthy, Suman Kumar, Anup Das, Nagarajan Kandasamy, and Nur A. Touba (2024). 
