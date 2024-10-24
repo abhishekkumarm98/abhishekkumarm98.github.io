@@ -7,6 +7,20 @@ author_profile: true
 
 
 <ul>
+	<li>Anush Niranjan Lingamoorthy, <b>Abhishek Kumar Mishra</b>, Suman Kumar, David Gordon, Jacob Brenner, Nagarajan Kandasamy, and Amanda Watson (2024). 
+	 "Drug Overdose Vital-Signs Evaluator Using Machine Learning"
+	<br>
+	<i>2024 33rd International Joint Conference onArtificial Intelligence (IJCAI)</i>
+	<a href="https://www.ijcai.org/proceedings/2024/814"> [PDF] </a>
+	</li>
+	
+	<li>Shadi Matinizadeh, Arghavan Mohammadhassani, Noah Pacik-Nelson, Ioannis Polykretisl, <b>Abhishek Kumar Mishra</b>, James Shackleford, Nagarajan Kandasamy, Eric Gallo, and Anup Das (2024). 
+	 "A Fully-Configurable Digital Spiking Neuromorphic Hardware Design with Variable Quantization and Mixed Precision"
+	<br>
+	<i>2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS)</i>
+	<a href="https://www.ijcai.org/proceedings/2024/814"> [PDF] </a>
+	</li>
+	
 	<li><b>Abhishek Kumar Mishra</b>, Mohammad Ershad Shaik, Anush Lingamoorthy, Suman Kumar, Anup Das, Nagarajan Kandasamy, and Nur A. Touba (2024). 
 	 "WaferCap: Open Classification of Wafer Map Patterns using Deep Capsule Network"
 	<br>
