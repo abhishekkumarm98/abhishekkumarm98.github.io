@@ -7,6 +7,6 @@ I am currently in my 5th year as a Ph.D. candidate at Drexel University, where I
 
 My research interests include leveraging advanced machine learning techniques and wearable technologies to address critical healthcare challenges, particularly in noninvasive monitoring of physiological metrics such as glucose levels and opioid overdose detection. Additionally, I am focused on building power-efficient Spiking Neural Networks and exposing neuromorphic hardware faults using machine learning, as well as semiconductor wafer defect classification and natural language processing.
 
-Also, I am associated with a startup company: <a AltruMed</a>, a medical device company dedicated to addressing the opioid epidemic through the development of innovative solutions such as DOVE, serving as a Machine Learning Engineer.
+Also, I am associated with a startup company: <b AltruMed</b>, a medical device company dedicated to addressing the opioid epidemic through the development of innovative solutions such as DOVE, serving as a Machine Learning Engineer.
 
 I completed my Master of Science degree with research thesis in 2020 under the guidance of professor <a href="https://cse.buffalo.edu/~doermann/index.html">David Doermann</a> at SUNY Buffalo. 
