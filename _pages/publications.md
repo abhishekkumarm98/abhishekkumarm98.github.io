@@ -7,6 +7,20 @@ author_profile: true
 
 
 <ul>
+	<li><b>Abhishek Kumar Mishra</b>, Suman Kumar, Anush Lingamoorthy, Anup Das, Nagarajan Kandasamy (2024). 
+	 "Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification"
+	<br>
+	<i>2024 IEEE International Test Conference (ITC)</i>
+	<a href="https://ieeexplore.ieee.org/abstract/document/10766711"> [PDF] </a>
+	</li>
+
+	<li>Shadi Matinizadeh, Arghavan Mohammadhassani, Noah Pacik-Nelson, Ioannis Polykretis, Krupa Tishbi, Suman Kumar, M. L. Varshika, <b>Abhishek Kumar Mishra</b>, Nagarajan Kandasamy, James Shackleford, Eric Gallo, and Anup Das (2024). 
+	 "Neuromorphic computing for the masses"
+	<br>
+	<i>2024 IEEE 7th International Conference on Neuromorphic Systems (ICONS)</i>
+	<a href="https://ieeexplore.ieee.org/abstract/document/10766554"> [PDF] </a>
+	</li>
+	
 	<li>Anush Niranjan Lingamoorthy, <b>Abhishek Kumar Mishra</b>, Suman Kumar, David Gordon, Jacob Brenner, Nagarajan Kandasamy, and Amanda Watson (2024). 
 	 "Drug Overdose Vital-Signs Evaluator Using Machine Learning"
 	<br>
