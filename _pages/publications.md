@@ -7,6 +7,13 @@ author_profile: true
 
 
 <ul>
+	<li><b>Abhishek Kumar Mishra</b>, Anup Das, Nagarajan Kandasamy (2024). 
+	 "Model-Based Approach Towards Correctness Checking of Neuromorphic Computing Systems"
+	<br>
+	<i>2024 IEEE 29th Pacific Rim International Symposium on Dependable Computing (PRDC)</i>
+	<a href="https://ieeexplore.ieee.org/abstract/document/10858960"> [PDF] </a>
+	</li>
+	
 	<li><b>Abhishek Kumar Mishra</b>, Suman Kumar, Anush Lingamoorthy, Anup Das, Nagarajan Kandasamy (2024). 
 	 "Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification"
 	<br>
